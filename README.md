@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Note
+You can find the application on the link: https://ng-course-recipe-book-ba940.web.app/auth 
+You can use this email and password to login to see all the recipes:
+username: testlogin@test.com
+password: testlogin
